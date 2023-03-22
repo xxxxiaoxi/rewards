@@ -24,5 +24,5 @@ basic function (required):
 
 ###To Run this project locally
 ```shell
-$ git clone https://github.com/cylixx/rewards-restful.git
+$ git clone https://github.com/xxxxiaoxi/rewards.git
 $ mvn spring-boot: run
